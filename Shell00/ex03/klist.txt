@@ -1,0 +1,10 @@
+Credentials cache: API:73D64899-D30F-405B-8323-CFC7385AA03B
+        Principal: gboucett@42.FR
+
+  Issued                Expires               Principal
+Jul 29 11:52:40 2019  Aug  5 11:52:35 2019  krbtgt/42.FR@42.FR
+Credentials cache: API:4DEE1ED1-C23B-4C22-8DC7-A6AC6E3FC42E
+        Principal: gboucett@42.FR
+
+  Issued                Expires               Principal
+Jul 29 19:29:55 2019  Aug  5 19:29:49 2019  krbtgt/42.FR@42.FR
